@@ -5,7 +5,7 @@ Hello, I’m **Marco Mongi**. I apply **Python, Computer Vision, and Machine
 Continuous learning is central to how I work. I regularly explore new techniques—Reinforcement Learning, Large Language Models, edge deployments—and share my findings so others can build faster. If one of my repositories accelerates your own project, feel free to use it and let me know how it helped.
 
 ### 🚀 Explore my work
-Discover a curated selection of projects at my **[portfolio.com](https://marcoom.github.io/github-portfolio/)**. Each project card offers a concise overview and key technologies, making it easy to identify examples relevant to your interests.
+Discover a curated selection of projects at my **[portfolio](https://marcoom.github.io/github-portfolio/)**. Each project card offers a concise overview and key technologies, making it easy to identify examples relevant to your interests.
 
 > **Personal mantra:** _Build simple solutions for complex challenges._
 
